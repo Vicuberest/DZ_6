@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\ОБУЧЕНИЕ\DZ_6\ZadachaDop\bin\Debug\net6.0\ZadachaDop.exe
+C:\Users\Dell\Desktop\ОБУЧЕНИЕ\DZ_6\ZadachaDop\bin\Debug\net6.0\ZadachaDop.deps.json
+C:\Users\Dell\Desktop\ОБУЧЕНИЕ\DZ_6\ZadachaDop\bin\Debug\net6.0\ZadachaDop.runtimeconfig.json
+C:\Users\Dell\Desktop\ОБУЧЕНИЕ\DZ_6\ZadachaDop\bin\Debug\net6.0\ZadachaDop.dll
+C:\Users\Dell\Desktop\ОБУЧЕНИЕ\DZ_6\ZadachaDop\bin\Debug\net6.0\ZadachaDop.pdb
+C:\Users\Dell\Desktop\ОБУЧЕНИЕ\DZ_6\ZadachaDop\obj\Debug\net6.0\ZadachaDop.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\ОБУЧЕНИЕ\DZ_6\ZadachaDop\obj\Debug\net6.0\ZadachaDop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\ОБУЧЕНИЕ\DZ_6\ZadachaDop\obj\Debug\net6.0\ZadachaDop.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\ОБУЧЕНИЕ\DZ_6\ZadachaDop\obj\Debug\net6.0\ZadachaDop.AssemblyInfo.cs
+C:\Users\Dell\Desktop\ОБУЧЕНИЕ\DZ_6\ZadachaDop\obj\Debug\net6.0\ZadachaDop.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\ОБУЧЕНИЕ\DZ_6\ZadachaDop\obj\Debug\net6.0\ZadachaDop.dll
+C:\Users\Dell\Desktop\ОБУЧЕНИЕ\DZ_6\ZadachaDop\obj\Debug\net6.0\refint\ZadachaDop.dll
+C:\Users\Dell\Desktop\ОБУЧЕНИЕ\DZ_6\ZadachaDop\obj\Debug\net6.0\ZadachaDop.pdb
+C:\Users\Dell\Desktop\ОБУЧЕНИЕ\DZ_6\ZadachaDop\obj\Debug\net6.0\ZadachaDop.genruntimeconfig.cache
+C:\Users\Dell\Desktop\ОБУЧЕНИЕ\DZ_6\ZadachaDop\obj\Debug\net6.0\ref\ZadachaDop.dll
